@@ -31,5 +31,5 @@ margin-right: 100px;
 
 .secao1{
   display: flex;
-
+  align-items: center;
 }
