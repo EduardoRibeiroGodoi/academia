@@ -47,6 +47,12 @@ font-size: 30px;
 color: blue;
 }
 
+.secao2-todos-estudantes{
+display: grid;
+grid-template-columns: 25% 25% 25% 25%;
+
+
+}
 
 
 
