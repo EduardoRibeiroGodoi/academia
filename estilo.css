@@ -51,7 +51,7 @@ padding: 40px 0;
 .secao2-todos-estudantes{
 display: grid;
 grid-template-columns: 33% 33% 33%;
-
+padding-top: 30px;
 
 }
 
